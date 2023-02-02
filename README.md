@@ -1,5 +1,25 @@
-# Final Capstone
+# Welcome to the Student Chatbot!
 
-This directory contains all of the starter projects for the final capstone. The Vue starter project works with both the Java and .NET backend projects with a single configuration update that you can read about in the README.
+TEbot was developed by a team of junior developers as the final project of our 14 week software development bootcamp in December of 2022. Our application will prompt the user for then name and then provide help on a variety of topics related to the bootcamp. The user can ask TEbot for help related to the curriculum, the pathway program, motivational quotes, and even job postings!
 
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+# Technologies & Languages
+
+- C#/.NET
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Vue.js
+- Visual Studio
+- Visual Studio Code
+
+# The Team
+
+- Parker Crook
+- Keiko Sjostrom
+- Ekaterina Karpenkova
+- Omar Abdullah
+
+# Note
+
+TEbot's responses, including job postings, are stored in a database. As a result, job postings will most certainly be outdated and inaccurate.
