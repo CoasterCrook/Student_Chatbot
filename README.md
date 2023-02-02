@@ -22,4 +22,4 @@ TEbot was developed by a team of junior developers as the final project of our 1
 
 # Note
 
-TEbot's responses, including job postings, are stored in a database. As a result, job postings will most certainly be outdated and inaccurate.
+TEbot's responses, including job postings, are all stored in a database that the team created. We did not utilize any APIs when we developed this application. As a result job postings will most certainly be outdated and inaccurate.
