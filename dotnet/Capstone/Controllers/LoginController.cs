@@ -46,7 +46,7 @@ namespace Capstone.Controllers
             // Default to bad username/password message
             IActionResult result = Unauthorized(new { message = "Username or password is incorrect" });
 
-            // Get the user by username
+            // Get the user by their username
             User user = userDao.GetUser(userParam.Username);
 
             // If we found a user and the password hash matches
